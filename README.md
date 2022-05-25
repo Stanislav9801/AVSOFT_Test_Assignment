@@ -1,7 +1,7 @@
 # Тестовое задание от AVSOFT   
 
 ## Задача:   
-Выявить зависимость числа bugs от значений признаков `repository_name`, `commit_hash`, `commit_date`, `commit_author` и `commit_message`.   
+Выявить зависимость числа `bugs` от значений признаков `repository_name`, `commit_hash`, `commit_date`, `commit_author` и `commit_message`.   
 Реализовать модель, на основе данного датасета, которая с максимальной точностью сможет предсказывать количество `bugs`.  
 
 
