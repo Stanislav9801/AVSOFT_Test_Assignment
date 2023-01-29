@@ -1,15 +1,15 @@
-# Тестовое задание от AVSOFT   
+# AVSOFT test assignment  
 
-## Задача:   
-Выявить зависимость числа `bugs` от значений признаков `repository_name`, `commit_hash`, `commit_date`, `commit_author` и `commit_message`.   
-Реализовать модель, на основе данного датасета, которая с максимальной точностью сможет предсказывать количество `bugs`.  
+## Objective:   
+Find the correlation between the number of `bugs` and the features `repository_name`, `commit_hash`, `commit_date`, `commit_author` and `commit_message`.   
+Implement a model, based on a given dataset, that is able to predict the number of `bugs` with maximum accuracy.  
 
 
-## Описание данных:  
-В данных содержится 5 признаков и 1 целевая переменная.   
-- `repository_name` - наименование репозитория
-- `commit_hash` - хэш коммита
-- `commit_date` - дата коммита
-- `commit_author` - автор коммита
-- `commit_message` - сообщение, отправленное вместе с коммитом
-- `bugs` - количество ошибок (целевой признак)
+## Data description:  
+The dataset contains 5 features and 1 target variable.   
+- `repository_name` - repository name
+- `commit_hash` - commit hash
+- `commit_date` - commit date
+- `commit_author` - commit author
+- `commit_message` - message submitted with the commit
+- `bugs` - number of errors (target attribute)
