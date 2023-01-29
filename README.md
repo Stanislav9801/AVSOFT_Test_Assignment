@@ -1,4 +1,4 @@
-# AVSOFT test assignment  
+# AVSOFT_Test_Assignment  
 
 ## Objective:   
 Find the correlation between the number of `bugs` and the features `repository_name`, `commit_hash`, `commit_date`, `commit_author` and `commit_message`.   
